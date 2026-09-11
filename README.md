@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="assets/logo.png" width="300" alt="MicroLog Logo">
+<img src="src/assets/logo.png" width="300" alt="MicroLog Logo">
 
 </p>
 
@@ -9,6 +9,7 @@
 <p align="center">
 A lightweight logging library for Python focused on simplicity, efficiency, and predictable behavior.
 </p>
+
 ---
 
 [🇷🇺 Русская версия](README_RU.md)

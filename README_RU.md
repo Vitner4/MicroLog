@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="assets/logo.png" width="300" alt="Логотип MicroLog">
+<img src="src/assets/logo.png" width="300" alt="Логотип MicroLog">
 
 </p>
 
